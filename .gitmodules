@@ -1,0 +1,9 @@
+[submodule "FE-FEAR16v2-PCB-Mainboard"]
+	path = FE-FEAR16v2-PCB-Mainboard
+	url = https://github.com/Dephrilibrium/FE-FEAR16v2-PCB-Mainboard
+[submodule "FE-FEAR16v2-PCB-CathReg"]
+	path = FE-FEAR16v2-PCB-CathReg
+	url = https://github.com/Dephrilibrium/FE-FEAR16v2-PCB-CathReg
+[submodule "FE-FEAR16v2-PCB-GridReg"]
+	path = FE-FEAR16v2-PCB-GridReg
+	url = https://github.com/Dephrilibrium/FE-FEAR16v2-PCB-GridReg
