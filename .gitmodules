@@ -7,3 +7,6 @@
 [submodule "FE-FEAR16v2-PCB-GridReg"]
 	path = FE-FEAR16v2-PCB-GridReg
 	url = https://github.com/Dephrilibrium/FE-FEAR16v2-PCB-GridReg
+[submodule "FE-FEAR16v2-Firmware"]
+	path = FE-FEAR16v2-Firmware
+	url = https://github.com/Dephrilibrium/FE-FEAR16v2-Firmware
