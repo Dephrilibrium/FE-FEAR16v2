@@ -1,0 +1,14 @@
+### Ignored folders ###
+# Ignore the real repos -> Only add them as submodule-links!
+_kicadLibs/_obsolet old files/
+FEAR-16 - Mainboard/
+FEAR-16 - Shield - CathReg/
+FEAR-16 - Shield - GridReg/
+#######################
+
+### Ignored files (wildcard) ###
+*.bak
+################################
+
+### Ignored files (specific) ###
+################################
